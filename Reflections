@@ -1,0 +1,54 @@
+<!Doctype.html>
+<html>
+<head>
+<title> REFLECTIONS </title>
+</head>
+<body>
+
+<h1>
+About
+</h1>
+
+<p> 
+This a page for all my reflections for Girls Who Code
+</p>
+
+<h2>
+Intro to Robotics
+</h2>
+
+<p text-align:center;> My ideas on robotics have changed by making me think more about how they work rather than what they do. 
+<br>
+What makes me excited is how advanced the technology will become in the future and how easier it will be.
+<br>
+I am a bit nervous about how it will be used, either good or bad.
+<br>
+What worked well was figuring out the basics of how circuits work by using a breadboard. 
+<br>
+I want to work on using actual circuits instead of online.
+</p>
+
+ <hr>
+ 
+ <h2>
+ Intro to Robotics-Blinking LEDs
+ </h2> 
+ 
+ <p>
+ We worked down figure out in what order the lights had to be wired to, we could improve by making it more complicated.
+ <br>
+ An Arduino sketch needs to set up and then has a loop.
+</p>
+
+<h2> 
+Intro to Robotics-Dance Party
+</h2>
+
+<p>
+I learned that I could code something into Arduino to make the robot do actions.
+<br>
+My favorite part was seeing my robots dance mash up to the music I choose.
+</p>
+
+
+
