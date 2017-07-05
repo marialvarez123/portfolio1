@@ -50,6 +50,18 @@ I learned that I could code something into Arduino to make the robot do actions.
 My favorite part was seeing my robots dance mash up to the music I choose.
 </p>
 
+<h2>
+Web Framework
+</h2>
+
+<p>
+An MVC paradigm is a design pattern used to create models, it's a format that makes it easier to make a webpage
+<br>
+A framework is made up of libraries, so a library is much smaller.
+<br>
+You would use a framework rather than create a app yuour self because it is much more simple, it already has a frame for you.
+<p>
+
 </body>
 </html>
 
